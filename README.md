@@ -1,2 +1,4 @@
 # pern-todo
 SAVE YOUR TODO LIST
+
+First PERN PROJECT FOR LEARNING.
